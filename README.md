@@ -11,5 +11,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791) <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepdaglar)](https://github.com/zeynepdaglar/github-readme-stats) 
 
