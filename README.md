@@ -9,7 +9,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC) <br>
-![Visual Studio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualstudio.microsoft.com%2Ftr%2F&psig=AOvVaw1Rvm2Og5VLLBV6lbJGJ2h0&ust=1644655162798000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiQ54ig9_UCFQAAAAAdAAAAABAD)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC) 
+![Visual Studio](https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg) <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepdaglar)](https://github.com/zeynepdaglar/github-readme-stats) 
 
