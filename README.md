@@ -9,8 +9,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepdaglar)](https://github.com/zeynepdaglar/github-readme-stats) 
-
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeynepdaglar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
