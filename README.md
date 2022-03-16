@@ -17,3 +17,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeynepdaglar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
  <p>
+  <a href="https://www.linkedin.com/in/zeynep-daglar/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+   <a href="https://www.hackerrank.com/zeynepdaglar41" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a>
