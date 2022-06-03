@@ -13,10 +13,10 @@
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
 
 <br>
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeynepdaglar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+</a> -->
  <p>
  Connect with me: <br>
 <a href="https://www.linkedin.com/in/zeynep-daglar/" target="_blank">
