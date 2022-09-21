@@ -1,8 +1,8 @@
 💻 **Languages and Tools:**<br>
 <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)&nbsp; <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
